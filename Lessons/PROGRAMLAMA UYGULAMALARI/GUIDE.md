@@ -1,6 +1,8 @@
+# Programlama Uygulamaları
+
 ## Ders Bilgileri
 
-* Ders Adı: PROGRAMLAMA UYGULAMALARI
+* Ders Adı: Programlama Uygulamaları
 * Ders Kodu: 1123214
 * Dersin Dili: Türkçe
 * Dersin Düzeyi: Lisans

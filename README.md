@@ -1,7 +1,7 @@
 
 ![](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/iste.png)
 
-## Iskenderun Technical University
+## İskenderun Technical University
 
 Derslerde kullanılan dökümanlar ve proje ödevlerinin çözümlerini bu repoda paylaşacağım.
 
