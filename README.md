@@ -3,5 +3,5 @@
 
 ## Dersler
 
-* Programlama Uygulamaları [>](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/GUIDE.md)
+* Programlama Uygulamaları ([Git](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/GUIDE.md))
   * Kullanılan Dil : C++
