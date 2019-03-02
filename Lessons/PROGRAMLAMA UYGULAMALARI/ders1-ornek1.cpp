@@ -17,7 +17,7 @@ int main() {
 
     /* For döngüsü yardımıyla dizimizin bütün indislerini
      * tersten tek tek ekrana yazdırdık. Böylece bütün kelimemizi
-     * ters bir şekilde ekrana yazdırmış olduk.*/
+     * ters bir şekilde ekrana yazdırmış olduk. */
 
     // strlen(): Başlangıç adresini aldığı yazının uzunluğunu döndürür.
     for (int i = strlen(cKarakterDizisi) - 1 ; i >= 0 ; i--) {

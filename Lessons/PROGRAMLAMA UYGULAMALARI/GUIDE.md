@@ -12,4 +12,5 @@
 ## Ders İçeriği
 
 * 1.Ders
-  * 1.Örnek: Kullanıcı tarafından girilen kelimenin ters çevirilip ekrana yazdırılması. [Çözüm](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders1-ornek1.cpp)
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders1-ornek1.cpp): Kullanıcı tarafından girilen kelimenin ters çevirilip ekrana yazdırılması.
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders1-ornek2.cpp): Kullanıcı tarafından girilen kelimenin rastgele bir harfinin değiştirilmek suretiyle şifrelenmesi ve eski haline geri döndürülmesi.
