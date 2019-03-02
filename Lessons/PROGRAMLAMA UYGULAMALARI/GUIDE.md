@@ -1,3 +1,5 @@
+![](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/cpp.png)
+
 # Programlama Uygulamaları
 
 * Ders Kodu: 1123214

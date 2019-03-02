@@ -1,4 +1,3 @@
-
 ![](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/iste.png)
 
 ## İskenderun Technical University
