@@ -1,4 +1,4 @@
-![](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/cpp.png)
+<img src="https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/cpp.png" width="250" height="250">
 
 # Programlama Uygulamaları
 
