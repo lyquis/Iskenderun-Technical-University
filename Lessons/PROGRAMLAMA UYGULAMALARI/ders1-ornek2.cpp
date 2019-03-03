@@ -9,6 +9,8 @@
 using namespace std;
 
 int main() {
+    srand(time(NULL));
+    // srand(time(NULL)): Rastgele sayı üretmek için kullanlır.
     
     // Değişkenlerimizi tanımladık.
     int iSayi = 0;
@@ -21,14 +23,11 @@ int main() {
     cin >> cKarakterDizisi;
     
     /* For döngüsü yardımı ile rastgele sayı üretip bu sayıyı baz alarak,
-     * girilen kelimeden rastgele harf seçip o harfin indisini başka diziye
+     * girilen kelimeden rastgele 3 harf seçip o 3 harfin indisini başka diziye
      * ayırdık. Ana dizimizde seçilen harfi alfabetik sırada kendisinden
      * 2 sonra gelen harf ile değiştirdik. */
     
-    
-    // srand(time(NULL)): Rastgele sayı üretmek için kullanlır.
     for (int i = 0; i < 3; i++) {
-        srand(time(NULL));
         iSayi = rand()%strlen(cKarakterDizisi);
         iRandomIndis[i] = iSayi;
         cKarakterDizisi[iSayi] = cKarakterDizisi[iSayi] + 2;
@@ -37,7 +36,7 @@ int main() {
     // Modifiye edilmiş ana diziyi ekrana yazdırdık.
     cout << "Encrypted Array: " << cKarakterDizisi << endl;
     
-    // Harfin kaydettiğimiz indislerine bakarak harfi eski haline geri çevirdik.
+    // Harflerin kaydettiğimiz indislerine bakarak harfleri eski haline geri çevirdik.
     for (int i = 0; i < 3; i++) {
         cKarakterDizisi[iRandomIndis[i]] = cKarakterDizisi[iRandomIndis[i]] - 2;
     }
