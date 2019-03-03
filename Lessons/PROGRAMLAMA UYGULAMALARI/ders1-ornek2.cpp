@@ -9,8 +9,8 @@
 using namespace std;
 
 int main() {
-    srand(time(NULL));
     // srand(time(NULL)): Rastgele sayı üretmek için kullanlır.
+    srand(time(NULL));
     
     // Değişkenlerimizi tanımladık.
     int iSayi = 0;
