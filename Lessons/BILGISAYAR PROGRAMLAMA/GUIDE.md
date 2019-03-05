@@ -23,7 +23,7 @@
   * [3.Örnek](#): Açıklama.
 
 * 3.Ders
-  * [1.Örnek](#): Sınıf tanımlama, Constructor-Destructor konsepti.
-  * [2.Örnek](#): Nesne yapısını kullanarak kare alma işlemi.
-  * [3.Örnek](#): Nesnelerin birbirlerine kopyalanması.
-  * [3.Örnek](#): Arkadaş fonksiyon konsepti ile dışarıdan private içeriğe erişmek.
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek1.cpp): Sınıf tanımlama, Constructor-Destructor konsepti.
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek2.cpp): Nesne yapısını kullanarak kare alma işlemi.
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek3.cpp): Nesnelerin birbirlerine kopyalanması.
+  * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek4.cpp): Arkadaş fonksiyon konsepti ile dışarıdan private içeriğe erişmek.
