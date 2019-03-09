@@ -12,7 +12,7 @@
 
 ## Uygulamalar
 
-* [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMAYA%20GIRIS/ders3-ornek1.cpp): Alışveriş listesinden yapılan seçimlerin toplam fiyatını gösteren program.
+* [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMAYA%20GIRIS/ornek1.cpp): Alışveriş listesinden yapılan seçimlerin toplam fiyatını gösteren program.
 
 * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMAYA%20GIRIS/ornek2.cpp): Kullanıcı tarafından girilen sayıya kadar tüm sayıların asal olup olmadığını ekrana yazdıran program.
 
