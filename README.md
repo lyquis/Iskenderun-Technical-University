@@ -2,6 +2,10 @@
 <p align="center">Derslerde kullanılan dökümanlar ve proje ödevlerinin çözümlerini bu repoda paylaşacağız.</p>
 
 ## Dersler
+
+* Bilgisayar Programlamaya Giriş [→](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMAYA%20GIRIS/GUIDE.md)
+  * Kullanılan Dil : C++
+
 * Bilgisayar Programlama [→](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/GUIDE.md)
   * Kullanılan Dil : C++
 
