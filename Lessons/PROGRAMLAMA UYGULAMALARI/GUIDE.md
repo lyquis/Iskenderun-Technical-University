@@ -21,7 +21,7 @@
   *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders2-ornek2.cpp): Bir dizi tanımlamak ve bu diziye adresi üzerinden ulaşmak, indislerin tuttuğu değerleri ve bu indislerin adreslerini ekrana yazdırmak.
   *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders2-ornek3.cpp): Malloc fonksiyonu ile boyutu bilinmeyen bir dizi için dinamik olarak bellekte yer ayırmak.
 
-  * 3.Ders
+* 3.Ders
   *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek1.cpp): Class yardımı ile dairenin alan ve yarıçapını hesaplayan program.
   *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek2.cpp): Arkadaş class ve arkadaş fonksiyon konsepti.
   *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek3.cpp): Class yardımı ile kürenin yüzey alanı ve hacmini hesaplayan program.
