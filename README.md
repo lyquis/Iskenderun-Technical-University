@@ -4,7 +4,7 @@
 ## Dersler
 
 * Bilgisayar Programlamaya Giriş [→](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMAYA%20GIRIS/GUIDE.md)
-  * Kullanılan Dil : <img src="https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/cpp.png" width="50" height="50">
+  * Kullanılan Dil : <img src="https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Documents/cpp.png" width="10" height="10">
 
 
 * Bilgisayar Programlama [→](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/GUIDE.md)
