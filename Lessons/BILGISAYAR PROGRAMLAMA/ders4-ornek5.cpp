@@ -1,4 +1,4 @@
-//this pointeri cout denemeleri
+//This pointeri cout denemeleri.
 #include <iostream>
 using namespace std;
 class test {
@@ -10,10 +10,12 @@ class test {
     int x;
     friend void afonk( test t);
 };
-test::test (int a){
+
+test::test (int a) {
     x=a;                        // x'e a değerini atıyor.
     y=900;
 }
+
 void test::ekrana_yaz() const {
     cout << this->x << endl;   //aynı ifade
     cout << (*this).x << endl; //aynı ifade
@@ -21,12 +23,13 @@ void test::ekrana_yaz() const {
     cout << &(*this).x << endl; //pointerin kendi adresini yazdırır
     cout << this << endl;       
 }
-void afonk (test t){
+
+void afonk (test t) {
     t.x=9;
     cout << endl << t.x << endl;
 }
-int main ()
-{
+
+int main () {
     test nesne (12);
     nesne.ekrana_yaz();
     cout << endl << nesne.y << endl;

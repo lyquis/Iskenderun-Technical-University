@@ -12,18 +12,25 @@
 
 ## Uygulamalar
 
-* 1.Ders
+* 1.Ders - 18 Şubat
   * [1.Örnek](#): Açıklama.
   * [2.Örnek](#): Açıklama.
   * [3.Örnek](#): Açıklama.
 
-* 2.Ders
+* 2.Ders - 25 Şubat
   * [1.Örnek](#): Açıklama.
   * [2.Örnek](#): Açıklama.
   * [3.Örnek](#): Açıklama.
 
-* 3.Ders
+* 3.Ders - 4 Mart
   * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek1.cpp): Sınıf tanımlama, Constructor-Destructor konsepti.
   * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek2.cpp): Nesne yapısını kullanarak kare alma işlemi.
   * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek3.cpp): Nesnelerin birbirlerine kopyalanması.
   * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders3-ornek4.cpp): Arkadaş fonksiyon konsepti ile dışarıdan private içeriğe erişmek.
+
+* 4.Ders - 11 Mart
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek1.cpp): Nesne dizisi tanımlama, diziye değerler atama ve değerlerin ekrana yazdırılması.
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek2.cpp): Setter ve Getter.
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek3.cpp): Sınıflarda "this" kullanımı.
+  * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek4.cpp): Sınıflarda referans kullanımı.
+  * [5.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek5.cpp): Sınıflarda this fonskiyonu uygulamaları.
