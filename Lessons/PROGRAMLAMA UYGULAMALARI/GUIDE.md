@@ -27,13 +27,7 @@
   *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek3.cpp): Class yardımı ile kürenin yüzey alanı ve hacmini hesaplayan program.
   *  [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek4.cpp): Amerika ve Avrupa ölçü birimlerini birbirine dönüştüren program.
 
-  * 3.Ders - 8 Mart
-  *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek1.cpp): Class yardımı ile dairenin alan ve yarıçapını hesaplayan program.
-  *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek2.cpp): Arkadaş class ve arkadaş fonksiyon konsepti.
-  *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek3.cpp): Class yardımı ile kürenin yüzey alanı ve hacmini hesaplayan program.
-  *  [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders3-ornek4.cpp): Amerika ve Avrupa ölçü birimlerini birbirine dönüştüren program.
-
- * 4.Ders - 15 Mart
+* 4.Ders - 15 Mart
   *  [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders4-ornek1.cpp): Stringlerde .swap fonksiyonu.
   *  [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders4-ornek2.cpp): Stringlerde .replace fonksiyonu.
   *  [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/PROGRAMLAMA%20UYGULAMALARI/ders4-ornek3.cpp): Stringlerde reverse iterator fonksiyonu.
