@@ -34,3 +34,12 @@
   * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek3.cpp): Sınıflarda "this" kullanımı.
   * [4.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek4.cpp): Sınıflarda referans kullanımı.
   * [5.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders4-ornek5.cpp): Sınıflarda this fonskiyonu uygulamaları.
+
+  * 5.Ders - 18 Mart
+  * [1.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders5-ornek1.cpp): Matematik sınıfında girilen iki kenar uzunluğu için; kenar1,kenar2 ve açı parametreleri ile 3. kenar uzunluğunu
+hesapla fonksiyonu ile bulan ve maine gönderen program.
+  * [2.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders5-ornek2.cpp): Matematik isminde bir class oluşturma. kokAl fonksiyonunu kullanarak a,b,c degerlerine gore a*x^2 + b*x + c 
+denkleminin koklerini hesaplayıp ekrana yazdıran program.
+  * [3.Örnek](https://github.com/wynioux/Iskenderun-Technical-University/blob/master/Lessons/BILGISAYAR%20PROGRAMLAMA/ders5-ornek3.cpp): Matematik isminde bir class oluşturup  a,b,c degerlerine gore a*x^2 + b*x + c denkleminin 
+pozitif köklerini pozitifKokAl fonksiyonu ile,negatif köklerini negatifKokAl fonksiyonu ile
+ hesaplayıp,goster fonksiyonu ile ekrana yazdıran program.

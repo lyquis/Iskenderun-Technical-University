@@ -10,10 +10,10 @@ class Matematik {
     private:
         double x1,x2;
     public:
-        void pozitifKokAl (int a, int b, int c){
+        void pozitifKokAl (int a, int b, int c) {
             x1 = (-b + (sqrt( pow(b,2) -4*a*c) )) / (2*a);
         }
-        void negatifKokAl (int a, int b, int c){
+        void negatifKokAl (int a, int b, int c) {
             x2 = (-b - (sqrt( pow(b,2) -4*a*c) )) / (2*a);
         }
         void goster () {

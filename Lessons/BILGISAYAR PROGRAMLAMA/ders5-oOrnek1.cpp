@@ -17,7 +17,7 @@ double Matematik::hesapla (double kenar1, double kenar2, int aci) {
     return sqrt ((pow (kenar1,2)+pow (kenar2,2)-2*(kenar1*kenar2*cos(aci*3.14/180)))); 
 }
 
-int main (){
+int main () {
     Matematik mat;
     cout << mat.hesapla (3,4,90) << endl;   // 3-4-5 üçgeni denemesi
     cout << mat.hesapla (5,12,90) << endl;  //5-12-13 üçgeni denemesi   
