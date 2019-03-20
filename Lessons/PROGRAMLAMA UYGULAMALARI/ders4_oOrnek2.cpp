@@ -1,4 +1,4 @@
-// string replace
+// String replace
 
 #include <iostream>
 #include <string>

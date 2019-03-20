@@ -1,4 +1,4 @@
-//string dizisine ikinci bir atama yapıldığında oluşan değişimleri gösterir
+//String dizisine ikinci bir atama yapıldığında oluşan değişimleri gösterir
 
 #include <iostream>
 using namespace std;
